@@ -1,0 +1,264 @@
+> > > INPUT: do-what-it-says 
+
+=========
+SONG INFO
+=========
+Track: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview @ https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=972f22b2cb04487eb72834b86f8e1dca
+
+> > > INPUT: do-what-it-says 
+
+=========
+SONG INFO
+=========
+Track: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview @ https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=972f22b2cb04487eb72834b86f8e1dca
+
+> > > INPUT: do-what-it-says 
+
+=========
+SONG INFO
+=========
+Track: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview @ https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=972f22b2cb04487eb72834b86f8e1dca
+
+> > > INPUT: do-what-it-says 
+
+=========
+SONG INFO
+=========
+Track: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview @ https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=972f22b2cb04487eb72834b86f8e1dca
+
+> > > INPUT: concert-this justin timberlake
+
+==========================
+JUSTIN TIMBERLAKE CONCERTS
+==========================
+Venue: Mohegan Sun Arena // Uncasville, CT
+Date: Friday, 04/12/2019
+------------------
+Venue: Mohegan Sun Arena // Uncasville, CT
+Date: Saturday, 04/13/2019
+------------------
+
+> > > INPUT: movie-this the matrix
+
+=================
+THE MATRIX (1999)
+=================
+IMDB: 8.7
+RT:   73
+(USA, English)
+Synopsis: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Starring: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+> > > INPUT: spotify-this-song sexyback
+
+=========
+SONG INFO
+=========
+Track: SexyBack (feat. Timbaland)
+Artist: Justin Timberlake
+Album: 50 Pop Sensations
+Preview @ https://p.scdn.co/mp3-preview/e4ff7d627759f7c67e5814ddd821ba6b507136da?cid=972f22b2cb04487eb72834b86f8e1dca
+
+
+
+=========
+SONG INFO
+=========
+Track: SexyBack (feat. Timbaland)
+Artist: Justin Timberlake
+Album: 50 Pop Sensations
+Preview @ https://p.scdn.co/mp3-preview/e4ff7d627759f7c67e5814ddd821ba6b507136da?cid=972f22b2cb04487eb72834b86f8e1dca
+
+> > > INPUT: spotify-this-song sexyback> > > INPUT: concert-this radiohead
+
+==================
+RADIOHEAD CONCERTS
+==================
+
+> > > INPUT: concert-this sufjan stevens
+
+=======================
+SUFJAN STEVENS CONCERTS
+=======================
+
+> > > INPUT: concert-this slayer
+
+===============
+SLAYER CONCERTS
+===============
+Venue: Ak-Chin Pavilion // Phoenix, AZ
+Date: Thursday, 05/02/2019
+------------------
+Venue: Isleta Amphitheater // Albuquerque, NM
+Date: Friday, 05/03/2019
+------------------
+Venue: UTEP/Don Haskins Center // El Paso, TX
+Date: Sunday, 05/05/2019
+------------------
+Venue: Bert Ogden Arena // Edinburg, TX
+Date: Tuesday, 05/07/2019
+------------------
+Venue: The Pavilion at Toyota Music Factory // Irving, TX
+Date: Wednesday, 05/08/2019
+------------------
+Venue: Mid Florida Credit Union Amphitheatre // Tampa, FL
+Date: Friday, 05/10/2019
+------------------
+Venue: Coral Sky Amphitheater // West Palm Beach, FL
+Date: Saturday, 05/11/2019
+------------------
+Venue: Big Sandy Superstore Arena // Huntington, WV
+Date: Monday, 05/13/2019
+------------------
+Venue: Merriweather Post Pavilion // Columbia, MD
+Date: Tuesday, 05/14/2019
+------------------
+Venue: Ruoff Home Mortgage Music Center // Noblesville, IN
+Date: Thursday, 05/16/2019
+------------------
+Venue: Providence Medical Center Amphitheater // Bonner Springs, KS
+Date: Friday, 05/17/2019
+------------------
+Venue: DTE Energy Music Theater // Clarkston, MI
+Date: Sunday, 05/19/2019
+------------------
+Venue: Covelli Centre // Youngstown, OH
+Date: Monday, 05/20/2019
+------------------
+Venue: Canadian Tire Centre // Ottawa, Canada
+Date: Wednesday, 05/22/2019
+------------------
+Venue: BB&T Pavilion // Camden, NJ
+Date: Friday, 05/24/2019
+------------------
+Venue: Xfinity Center // Mansfield, MA
+Date: Saturday, 05/25/2019
+------------------
+Venue: Gliwice Arena // Gliwice, Poland
+Date: Tuesday, 06/04/2019
+------------------
+Venue: Sweden Rock Festival AB // Sölvesborg S, Sweden
+Date: Thursday, 06/06/2019
+------------------
+Venue: Rock Am Ring (June 7-9) // Nürburg, Germany
+Date: Saturday, 06/08/2019
+------------------
+Venue: Rock im Park (June 7-9) // Nurnberg, Germany
+Date: Sunday, 06/09/2019
+------------------
+Venue: Sports Arena // Budapest, Hungary
+Date: Tuesday, 06/11/2019
+------------------
+Venue: Arena Leipzig // Leipzig, Germany
+Date: Thursday, 06/13/2019
+------------------
+Venue: Nova Rock // Nickelsdorf, Austria
+Date: Friday, 06/14/2019
+------------------
+Venue: Download Festival (June 14-16) // Castle Donington, United Kingdom
+Date: Sunday, 06/16/2019
+------------------
+Venue: Geneva Arena // Le Grand-saconnex, Switzerland
+Date: Wednesday, 06/19/2019
+------------------
+Venue: Graspop Metal Meeting // Dessel, Belgium
+Date: Friday, 06/21/2019
+------------------
+Venue: Hellfest // Clisson, France
+Date: Sunday, 06/23/2019
+------------------
+Venue: Tipsport Arena // Praha, Czech Republic
+Date: Tuesday, 06/25/2019
+------------------
+Venue: Tons Of Rock // Oslo, Norway
+Date: Friday, 06/28/2019
+------------------
+Venue: Tuska Open Air // Helsinki, Finland
+Date: Saturday, 06/29/2019
+------------------
+Venue: Resurrection Fest // Viveiro, Spain
+Date: Wednesday, 07/03/2019
+------------------
+Venue: Heavy Rock Festival Stadium Restelo // Lisbon, Portugal
+Date: Friday, 07/05/2019
+------------------
+Venue: Rock the Castle // Vérone, Italy
+Date: Sunday, 07/07/2019
+------------------
+Venue: Arenele Romane // Bucharest, Romania
+Date: Wednesday, 07/10/2019
+------------------
+Venue: Sofia Airport Park // Sofia, Bulgaria
+Date: Thursday, 07/11/2019
+------------------
+Venue: AthensRocks Apostolos Nikolaidis Stadium // Athens, Greece
+Date: Saturday, 07/13/2019
+------------------
+Venue: CHAOS AB // Edmonton, Canada
+Date: Friday, 07/26/2019
+------------------
+Venue: Heavy Montreal (Weekend of July 27-28) // Montreal, Canada
+Date: Sunday, 07/28/2019
+------------------
+Venue: Wacken Open Air // Wacken, Germany
+Date: Friday, 08/02/2019
+------------------
+Venue: Hanns-Martin-Schleyer-Halle // Stuttgart, Germany
+Date: Saturday, 08/03/2019
+------------------
+Venue: Rock In Rio // Rio De Janeiro, Brazil
+Date: Friday, 10/04/2019
+------------------
+
+
+
+==========================
+JUSTIN TIMBERLAKE CONCERTS
+==========================
+Venue: Mohegan Sun Arena // Uncasville, CT
+Date: Saturday, 04/13/2019
+------------------
+
+> > > INPUT: concert-this justin timberlake> > > INPUT: movie-this the matrix
+
+=================
+THE MATRIX (1999)
+=================
+IMDB: 8.7
+RT:   73
+(USA, English)
+Synopsis: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Starring: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+
+
+=========
+SONG INFO
+=========
+Track: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview @ https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=972f22b2cb04487eb72834b86f8e1dca
+
+> > > INPUT: do-what-it-says > > > INPUT: do-what-it-says 
+
+=========
+SONG INFO
+=========
+Track: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview @ https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=972f22b2cb04487eb72834b86f8e1dca
+
